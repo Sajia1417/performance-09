@@ -1,0 +1,37 @@
+h1{
+    border-style: dashed dotted;
+    border-bottom: none;
+    border-width: 3px 6px 9px 12px;
+    border-color: coral;
+}
+h3{
+    border-style:none none none solid;
+    border-width: 15px;
+    border-color:darkturquoise;
+}
+h2{
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-top:none;
+    border-color: red green yellow blue;
+}
+.class1{
+    color:rgb(168, 226, 43);
+}
+p{
+    color:rgb(247, 11, 11);
+}
+.class1 p{
+    color:rgb(20, 58, 59);
+}
+.class1 h1{
+    color:aqua;
+}
+.class1{
+    background-image: 
+    url("tree-736885_1280.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+   
+}
